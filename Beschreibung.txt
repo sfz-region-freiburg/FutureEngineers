@@ -1,0 +1,8 @@
+Träcker (Fischertechnik)
+
+Als Motor benutzt unser Träcker einen Servomotor vorne (Lenkung) und einen Encoder-Motorhinten (Hauptantrieb).
+Als Sensoren benutzten wir seitlich jeweils einen Ultraschall-Abstandssensor. Vorne benutzten wir eine USB-Kamera.
+Diese Sensoren und Motoren werden von einem Fischertechnik Akku (NiMH) angetrieben.
+Hindernisse ?
+Sie können uns auf GitHub unter dem Namen sfz-region-freiburg finden und in unserem Ordner unsere Fotos, Videos und unseren Code finden.
+Der Träcker war anfangs gar nicht dafür gedacht 'Träcker' zu heißen. Die Idee ist dem Team erst bei der fertigstellung gekommen da er dann ausgesehen hat wie ein Traktor.
